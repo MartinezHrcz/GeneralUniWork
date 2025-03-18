@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("otodikWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d47031df53853bc9fc54a71a9186de59b90e771")]
 [assembly: System.Reflection.AssemblyProductAttribute("otodikWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("otodikWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
