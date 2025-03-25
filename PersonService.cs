@@ -5,7 +5,7 @@ namespace otodikWebAPI
     {
         private readonly List<Person> _people;
         public PersonService() {
-            _people = new List<Person>();
+            _people = [];
         }
         public void Add(Person person)
         {
