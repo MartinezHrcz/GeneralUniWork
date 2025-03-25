@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7ZiONBxag51VtI6MjGNfTdB30dXzRrOyMKdkgo/XiAA=",
+  "Source": "otodikWebAPI",
+  "BasePath": "_content/otodikWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
